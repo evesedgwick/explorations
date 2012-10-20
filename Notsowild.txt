@@ -1,0 +1,5 @@
+Another glitch in the experiment: I created a branch called wildstuff, but somehow that was the distinctly unwild unmodified file collection, whereas master had the wild experiment file.  What I've done is renamed that file notsowild, and added these comments to try to explain it all. Now I'll make a real wild-experiment in the wildstuff  branch. 
+
+Oops. Experiment went bad already. I copied the samplefile, but didn't intend to copy its contents. Ah well. Here's the revised version now. 
+
+This is where we'll try to fork and push and pull. Now this file develops even further, with more content than ever before.

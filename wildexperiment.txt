@@ -1,1 +1,3 @@
+Oops. Experiment went bad already. I copied the samplefile, but didn't intend to copy its contents. Ah well. Here's the revised version now. 
+
 This is where we'll try to fork and push and pull. Now this file develops even further, with more content than ever before.
